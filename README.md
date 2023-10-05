@@ -23,7 +23,7 @@ FileFlow is a freight forwarding dashboard designed to help remote teams efficie
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-github-username/FileFlow.git
+git clone https://github.com/DavidRod1865/FileFlow.git
 ```
 
 2. Navigate to the project directory and install dependencies:
